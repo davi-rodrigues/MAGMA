@@ -3,7 +3,7 @@
 
 [![license: GPLv3](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)](https://github.com/FeynCalc/feyncalc/LICENSE.md)
 
-**MAGMA** is a Wolfram Mathematica package that analyses rotation curve data and the baryonic mass distribution of galaxies in order  the best-fit parameters of a given model. 
+**MAGMA** is a Wolfram Mathematica package that analyses rotation curve data and the baryonic mass distribution of galaxies. It can derive the best-fit parameters of a given model for each galaxy from a large sample. It can be used for testing dark matter halos or modified gravity.
 
 The code will be available here shortly.
 
