@@ -1,9 +1,11 @@
 # MAGMA
-Mathematica Automatized Galaxy Mass Analysis
+## Mathematica Automatized Galaxy Mass Analysis
 
 [![license: GPLv3](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)](https://github.com/FeynCalc/feyncalc/LICENSE.md)
 
-**MAGMA** is a Wolfram Mathematica package that analyses rotation curve data and the baryonic mass distribution of galaxies in order to infer parameters of a given model. 
+**MAGMA** is a Wolfram Mathematica package that analyses rotation curve data and the baryonic mass distribution of galaxies in order  the best-fit parameters of a given model. 
+
+The code will be available here shortly.
 
 ## Features
 
