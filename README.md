@@ -4,7 +4,7 @@
 
 **MAGMA** is a Wolfram Mathematica package that analyses rotation curve data and the baryonic mass distribution of galaxies. It aims to test either dark matter halos or modified gravity effects that mimic dark matter. If a sample of galaxies is provided, it can automatically derive the best-fits for the complete sample with a single human interaction. 
 
-This software is free to use and modify (under license GPLv3). In case it is used for a publication, please cite the original work [D.C. Rodrigues et al Nat.Astron. 2018](http://www.nature.com/articles/s41550-018-0498-9). In case of doubts/issues, let me know (davi.rodrigues@cosmo-ufes.org).
+This software is free to use and modify (under license GPLv3). In case it is used for a publication, please cite the original work [D.C. Rodrigues et al Nat.Astron. 2018](http://www.nature.com/articles/s41550-018-0498-9). This package was developed and tested in Mathematica 11.2. In case of doubts/issues, let me know (davi.rodrigues@cosmo-ufes.org).
 
 
 ## MAGMA parts
