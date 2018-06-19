@@ -1,0 +1,9 @@
+# MAGMA - Mathematica Automatized Galaxy Mass Analysis (2017)
+# Model: MOND - var: Fa0-CYD-example
+# Number of galaxies: 3
+# Sun 17 Jun 2018 18:37:15 - current user: "davi" - Mathematica version: "11.2.0 for Mac OS X x86 (64-bit) (September 11, 2017)"
+# 
+"Galaxy","H. type","D","delta D","D method","inclination","Delta inc.","L","Delta L","Reff","Sigma eff","h","Sigma0","MHI","HI radius at 1Msun/pc2","V_flat","Delta V_flat","Q flag","LB","a0","YD","0","df2","MD","MB","Mbar","N.data points","Chi2","Chi2red"
+"Galaxy01",7.,2.08,0.1,2.,42.,10.,2.922,0.008,1.77,147.51,1.75,437.35,0.936,9.2,93.3,7.,2.,0.,3.1537e-13,0.45199,0,0.8,1.3207,0.,2.5656,25.,16.532,0.75148
+"Galaxy02",4.,7.7,2.3,1.,75.,5.,84.836,0.156,2.45,2232.7,2.4,2112.7,4.154,18.85,213.7,15.9,1.,0.,1.6193e-13,0.47701,0,1.2,40.468,0.,45.992,41.,7.5872,0.19966
+"Galaxy03",5.,18.,2.5,4.,53.,2.,70.234,0.388,7.52,198.08,3.4,1789.9,6.473,22.2,168.,6.2,2.,0.,1.0242e-13,0.65795,0,0.8,46.21,0.,54.82,12.,23.421,2.6023

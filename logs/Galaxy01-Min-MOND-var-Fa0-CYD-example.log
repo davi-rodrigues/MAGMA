@@ -1,0 +1,19 @@
+Starting log file of Galaxy01 (n.1), MOND, var: Fa0-CYD-example
+Sun 17 Jun 2018 17:54:19, current user: "davi", N. of cores: 2, MAGMAfits version: "0.6(2018-167)", Mathematica version: "11.2.0 for Mac OS X x86 (64-bit) (September 11, 2017)"
+fitConstraints: {100000000000000000000*a0 > 1, 0.25 < YD < 1., 1.2 > df2 > 0.8}
+par2fitExpected: {{a0, 1/100000000000000, 1/1000000000000}, {YD, 0.25, 1.}, {df2, 0.8, 1.2}}
+
+Minimization parameters: nE=2, nI=2, timelimit1stRun=120, timelimit2ndRun=240, precisiongoal1stRun=4, precisiongoal2ndRun=5, searchpoints1stRun=Automatic, searchpoints2ndRun=Automatic, tolerance1stRun=1/100000000000000000000, tolerance2ndRun=1/10000000000000000000000
+
+{16.532470919174024, {a0 -> 3.1536934546513555*^-13, YD -> 0.45199230865528606, df2 -> 0.8}}
+{16.532470919174013, {a0 -> 3.1536934508331793*^-13, YD -> 0.4519923080077643, df2 -> 0.8}}
+---------End of the first run---------
+par2fitExpected: {{a0, 2.8383241057498617*^-13, 3.4690627959164975*^-13}, {YD, 0.4067930772069879, 0.4971915388085408}, {df2, 0.7200000000000001, 0.8800000000000001}}
+ 
+{16.532470919173967, {a0 -> 3.1536934505614446*^-13, YD -> 0.45199230690969205, df2 -> 0.8}}
+{16.532470919173974, {a0 -> 3.153693434023656*^-13, YD -> 0.4519923106973685, df2 -> 0.8}}
+---------End of the second run---------
+
+best={16.532470919173967, {a0 -> 3.1536934505614446*^-13, YD -> 0.45199230690969205, df2 -> 0.8}}
+Chi2red=0.751475950871544
+Total time: 46.748003

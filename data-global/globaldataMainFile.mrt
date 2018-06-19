@@ -1,0 +1,11 @@
+Any header can be here of arbitrary number of lines, and this file may contain info on galaxies that were not fitted. 
+However, the name of the galaxies below need to match the galaxy names that appear in the folder data-galaxies.
+
+The data below is just used as an example.
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+
+    Galaxy01  7   2.08  0.10  2 42.0 10.0   2.922   0.008  1.77   147.51  1.75   437.35   0.936  9.20  93.3   7.0   2   
+    Galaxy02  4   7.70  2.30  1 75.0  5.0  84.836   0.156  2.45  2232.70  2.40  2112.66   4.154 18.85 213.7  15.9   1  
+    Galaxy03  5  18.00  2.50  4 53.0  2.0  70.234   0.388  7.52   198.08  3.40  1789.91   6.473 22.20 168.0   6.2   2 

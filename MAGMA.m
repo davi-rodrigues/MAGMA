@@ -11,8 +11,6 @@
 (*MAGMA@Github:  https://github.com/davi-rodrigues/MAGMA*)
 (**)
 (*MAGMA.m = Main file package*)
-(**)
-(*In case of any edits, please insert additional information below this line.*)
 (*-------------------------------*)
 (**)
 
@@ -20,6 +18,7 @@
 (* ::Input::Initialization:: *)
 SetDirectory[NotebookDirectory[]];
 AppendTo[$Path,FileNameJoin[{DirectoryName[$InputFileName], "code-magma"}]];
+AppendTo[$Path,FileNameJoin[{DirectoryName[$InputFileName], "aux-magma"}]];
 
 
 
@@ -51,9 +50,9 @@ mBayesFiles ,mBayesParameter, mBayesNumberofSigmas, header, TableResults, FLabel
 {PrintFittedParameters, ParametersSymbols};
 
 
-Get["MAGMAfitsv05c.m"];
-Get["MAGMAtablev04b.m"];
-Get["MAGMAplotsv03b.m"];
+Get["MAGMAfits.m"];
+Get["MAGMAtable.m"];
+Get["MAGMAplots.m"];
 
 
 EndPackage[]
