@@ -1,11 +1,10 @@
 
 This folder should contain one file for each of the galaxies to be analysed. 
-The name of the file must has the following structure:
+The three galaxies present in this folder have fictitious names, they are here only to illustrate. 
 
-[Galaxy name]_rotmod.dat
+Each file should start with the name of the galaxy and a "_rotmod.dat" should be appended to it.
 
-Example: NGC2403_rotmod.dat
-
-The “_rotmod.dat” is the same ending used by the SPARC data sample. The data can be downloaded from 
+The “_rotmod.dat” is the same ending used by the SPARC data sample. The SPARC data can be downloaded from 
 http://astroweb.cwru.edu/SPARC/Rotmod_LTG.zip . 
-If the SPARC data is used, please see further instructions at http://astroweb.cwru.edu/SPARC/ .
+
+If the SPARC data is used, please see further instructions for crediting it at http://astroweb.cwru.edu/SPARC/ .
